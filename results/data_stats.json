@@ -1,0 +1,19 @@
+{
+ "train": 5728,
+ "valid": 811,
+ "test": 1653,
+ "test_hostile": 780,
+ "test_fine_support": {
+  "fake": 334,
+  "hate": 234,
+  "offensive": 219,
+  "defamation": 169
+ },
+ "train_hostile": 2678,
+ "train_fine_support": {
+  "fake": 1144,
+  "hate": 792,
+  "offensive": 742,
+  "defamation": 564
+ }
+}
