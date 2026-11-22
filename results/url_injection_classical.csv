@@ -1,0 +1,4 @@
+model,n_add,add_url_flip_pct,add_control_flip_pct,n_remove,remove_url_flip_pct
+"LR, word + char",737,53.05291723202171,0.8141112618724559,725,40.827586206896555
+"SVM, char",737,61.46540027137042,0.40705563093622793,725,51.310344827586206
+"LR, word",667,0.0,0.0,664,0.0
