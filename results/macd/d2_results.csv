@@ -1,0 +1,7 @@
+variant,model,C,macroF1,add_url_flip_pct
+raw,"LR, word + char",3.0,0.842326352224952,0.8879781420765027
+raw,"SVM, char",0.3,0.8417902889990269,0.3448275862068966
+raw,"LR, word",3.0,0.8243974911197204,0.0
+cleaned,"LR, word + char",3.0,0.8415812881742475,
+cleaned,"SVM, char",0.3,0.841788372871182,
+cleaned,"LR, word",3.0,0.8241035169405264,
